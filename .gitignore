@@ -39,3 +39,5 @@
 
 # Ignore database config
 /config/database.yml
+
+/config/credentials/test.key
